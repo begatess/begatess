@@ -1,0 +1,3 @@
+- 👋 Hi, I’m the Syntax-Errors Queen 
+- 👀 Currently front-end developer
+- 🌱 Learning everything...
